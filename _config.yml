@@ -102,5 +102,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-gist
 
-jekyll-mentions:
-    base_url: https://github.com
+#jekyll-mentions:
+#   base_url: https://github.com

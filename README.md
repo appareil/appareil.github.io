@@ -1,12 +1,12 @@
-# TextLog v1.0
+# Thinkspace v2.0
 
-TextLog is a minimalist, distraction-free and content-focused Jekyll theme with flexible content width. TextLog does not have **about page**, instead TextLog has a quite simple homepage; a brief introduction text (about the blog itself or the author bio) and then goes a list of post titles. Font or typeface used is [Droid Sans](https://fonts.google.com/specimen/Droid+Sans) from Google Web Font. Droid Sans is one of the best web fonts with highest readability. TextLog supports [Disqus comment](https://disqus.com/) and [tags](https://heiswayi.github.io/textlog/tagged/).
+Thinkspace is a white clean, nerdy look and minimalist Jekyll theme designed for engineers to write their ranting and findings. This theme is best use for personal blog type or project-based blog. Font or typeface used is [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Google Web Fonts and [Font Awesome](http://fontawesome.io/). [Disqus](https://disqus.com/) comment is supported.
 
-[**Live Demo**](https://heiswayi.github.io/textlog)
+[**Live Demo**](http://heiswayi.github.io/thinkspace/)
 
 ### Screenshot
 
-![Screenshot](http://i.imgur.com/htP3Xqc.png)
+![Screenshot](http://i.imgur.com/TgaRfrU.png)
 
 ### License
 

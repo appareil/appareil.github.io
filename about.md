@@ -4,9 +4,9 @@ layout: page
 ---
 <p>I received my M.Arch from the University of Louisiana at Lafayette in May 2010. During graduate school, I worked for emerymcclure architecture, taking on all roles ranging from pre-design to construction management.
 
-I am currently working in New Orleans for the office Eskew+Dumez+Ripple.
+I am currently working in New Orleans for the office Eskew+Dumez+Ripple.</p>
 
-I can be contacted at: tim@dumatrait.com</p>
+<p>I can be contacted at: tim@dumatrait.com</p>
 
 <h2>Skills</h2>
 

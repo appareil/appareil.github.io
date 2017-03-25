@@ -22,11 +22,3 @@ layout: page
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="http://www.emerymcclure.com/iota-house-ii/">Iota House</a></li>
-	<li><a href="http://www.emerymcclure.com/dupree-pool-house/">Dupree Pool House</a></li>
-	<li><a href="http://www.eskewdumezripple.com/projects/wwl-tv-headquarters">WWL TV</a></li>
-</ul>
